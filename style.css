@@ -1,0 +1,28 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    color: hsl(160, 67%, 20%);
+    background-color: antiquewhite;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+.image {
+    text-align: center;
+}
+
+#link {
+    color: brown;
+    background-color: beige;
+    text-align: right;
+    font-size: large;
+
+}

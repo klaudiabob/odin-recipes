@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    color: rgb(36, 12, 58);
+    background-color: antiquewhite;
+    font-size: 48px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.image {
+    text-align: center;
+}
+
+#big {
+    text-align: center;
+    color: rgb(36, 12, 58);
+    background-color: antiquewhite;
+    font-size: 36px;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, "Geneva", Verdana, sans-serif;
+    color: rgb(4, 29, 3);
+    background-color: antiquewhite;
+    text-align: justify;
+
+}
+
+ul,
+ol {
+    font-family: 'Segoe UI', Tahoma, "Geneva", Verdana, sans-serif;
+    color: rgb(4, 29, 3);
+    background-color: antiquewhite;
+    text-align: justify;
+}
